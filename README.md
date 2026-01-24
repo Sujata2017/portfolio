@@ -142,11 +142,11 @@ o Project Title : AI-Powered-SDLC-Assistant
 - Supervised Code Generation: Instead of direct commits, the AI creates "Draft Pull Requests." A Senior Developer must review the AI’s logic and security analysis, providing a human safety layer before the code enters the CI/CD pipeline.
 
 - Strategic Impact
-1. Trust & Reliability: Solved the "Trust Gap" in AI by ensuring 100% human oversight for critical software artifacts.
+* Trust & Reliability: Solved the "Trust Gap" in AI by ensuring 100% human oversight for critical software artifacts.
 
-2. Error Reduction: Reduced AI hallucination impact to near zero by implementing mandatory human verification at the "Requirement to Code" transition.
+* Error Reduction: Reduced AI hallucination impact to near zero by implementing mandatory human verification at the "Requirement to Code" transition.
 
-3. Upskilling: Positioned the tool as a "Co-pilot" that empowers developers rather than replacing them, facilitating smoother organizational adoption.
+* Upskilling: Positioned the tool as a "Co-pilot" that empowers developers rather than replacing them, facilitating smoother organizational adoption.
 
 - [GitHub link](https://github.com/Sujata2017/AI-Powered-SDLC-Assistant)
 
