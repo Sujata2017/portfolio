@@ -1,7 +1,8 @@
 
 ## 🤖 Generative AI Skill Matrix
 
-1. Core GenAI Orchestration
+#### 1. Core GenAI Orchestration
+
 Frameworks: LangChain, LangGraph (for multi-agent flows), CrewAI, or AutoGen.
 
 Agentic Design: Multi-agent orchestration, Intent Classification, and Task Decomposition.
@@ -10,21 +11,24 @@ RAG Advanced Techniques: Semantic Search, Hybrid Search, Parent-Document Retriev
 
 Advanced Features: Token Streaming (SSE), Asynchronous AI Workflows, and Tool/Function Calling.
 
-2. Models & LLM Engineering
+#### 2. Models & LLM Engineering
+
 Proprietary Models: Azure OpenAI (GPT-4o, GPT-4 Turbo), Gemini Pro.
 
 Open Source: Llama 3, Mistral, Mixtral (implementation via Hugging Face or Ollama).
 
 Optimization: Prompt Engineering (Chain-of-Thought, Few-Shot, ReAct), Context Window Management.
 
-3. Data & Infrastructure (The "AI Stack")
+#### 3. Data & Infrastructure (The "AI Stack")
+
 Vector Databases: Pinecone, ChromaDB, FAISS, or Azure AI Search.
 
 Relational AI: Text-to-SQL generation, SQLAlchemy, and Database schema mapping for LLMs.
 
 Cloud Ecosystem: Azure AI Studio, Azure Blob Storage (for logging), Azure SQL.
 
-4. AI Governance & Operations (LLMOps)
+#### 4. AI Governance & Operations (LLMOps)
+
 Reliability: Human-in-the-Loop (HITL) architecture design and feedback loop integration.
 
 Evaluation: Building evaluation pipelines for hallucination detection and response accuracy.
