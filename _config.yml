@@ -3,9 +3,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: Sujata Roy
-#logo: "assets/img/GitHub_portfolio_pic.jpg?raw=true" # your photo (or logo) here
-<p>"assets/img/GitHub_portfolio_pic.jpg?raw=true"</p>
-<img class="one" src="ocean.jpg" width="300" height="300"><br>
+logo: "assets/img/GitHub_portfolio_pic.jpg?raw=true"
 description: >
   <div style="text-align: center;">
       <a style="text-decoration:none" href="https://www.linkedin.com/in/sujata-roy/">
